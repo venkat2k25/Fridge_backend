@@ -1,6 +1,10 @@
 fastapi
 uvicorn
-python-multipart 
-opencv-python 
-numpy 
-aiofiles
+python-multipart
+ultralytics
+opencv-python
+Pillow
+numpy
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
