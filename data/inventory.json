@@ -1,0 +1,51 @@
+{
+  "items": {
+    "milk": {
+      "name": "milk",
+      "count": 3,
+      "category": "Dairy",
+      "icon": "\ud83e\udd5b",
+      "storage_location": "door_shelf",
+      "expiry_date": "2025-06-03T23:52:06.290678",
+      "added_date": "2025-05-27T23:46:20.788189",
+      "last_updated": "2025-05-27T23:46:20.788193"
+    },
+    "orange": {
+      "name": "orange",
+      "count": 1,
+      "category": "Fruits",
+      "icon": "\ud83c\udf4a",
+      "storage_location": "crisper_drawer",
+      "expiry_date": "2025-06-10T23:47:05.676214",
+      "added_date": "2025-05-27T23:47:05.676260",
+      "last_updated": "2025-05-27T23:47:05.676267"
+    },
+    "leftover": {
+      "name": "leftover",
+      "count": 1,
+      "category": "Leftovers",
+      "icon": "\ud83e\udd58",
+      "storage_location": "main_compartment",
+      "expiry_date": "2025-05-30T23:52:06.290701",
+      "added_date": "2025-05-27T23:52:06.290707",
+      "last_updated": "2025-05-27T23:52:06.290710"
+    }
+  },
+  "total_items": 5,
+  "unique_items": 3,
+  "categories": {
+    "Dairy": 3,
+    "Fruits": 1,
+    "Leftovers": 1
+  },
+  "expiring_soon": [
+    {
+      "name": "leftover",
+      "days_until_expiry": 2,
+      "count": 1,
+      "category": "Leftovers",
+      "icon": "\ud83e\udd58"
+    }
+  ],
+  "last_updated": "2025-05-27T23:52:06.290723"
+}
